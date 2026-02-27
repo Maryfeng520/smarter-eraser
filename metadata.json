@@ -1,0 +1,5 @@
+{
+  "name": "Smart Worksheet Eraser",
+  "description": "Intelligently erase handwritten answers and markings from worksheets using Gemini 2.5 Flash Image.",
+  "requestFramePermissions": []
+}
